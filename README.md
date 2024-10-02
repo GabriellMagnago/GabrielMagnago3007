@@ -1,4 +1,4 @@
-  👋 Hello, I'm Gabriel Magnago
+   👋 Hello, I'm Gabriel Magnago
 
 - 👨‍💻 Currently working as a full stack young apprentice at [Hurb](https://github.com/HurbCom)!
 - 🌱 I’m currently learning JavaScript, Python, Git, information security, and software development techniques.
