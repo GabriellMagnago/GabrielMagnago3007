@@ -1,8 +1,7 @@
   👋 Hello, I'm Gabriel Magnago
 
 - 👨‍💻 Currently working as a full stack young apprentice at [Hurb](https://github.com/HurbCom)!
-- 👀 I’m interested in JavaScript, Python, Git, information security
-- 🌱 I’m currently learning algorithms, data structures, and software development techniques.
+- 🌱 I’m currently learning JavaScript, Python, Git, information security, and software development techniques.
 - 💞️ I’m looking to collaborate on coding projects, internships, or any initiative where I can apply my learning.
 - 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
  - ⚡ Fun fact: I love solving coding challenges and I'm always curious about how things work behind the scenes in technology!
