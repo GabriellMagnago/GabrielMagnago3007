@@ -1,6 +1,6 @@
    👋 Hello, I'm Gabriel Magnago
 
-- 👨‍💻 Currently working as a full stack young apprentice at [Hurb](https://github.com/HurbCom)!
+- 👨‍💻 Currently working as a full stack young apprentice at [Hurb](https://github.com/HurbCom)
 - 🌱 I’m currently learning JavaScript, Python, Git, information security, and software development techniques.
 - 💞️ I’m looking to collaborate on coding projects, internships, or any initiative where I can apply my learning.
 - 💻 Currently focused on learning and improving skills in both front-end and back-end development.
